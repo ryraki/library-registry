@@ -5904,3 +5904,4 @@ https://github.com/ArtronShop/ArtronShop_PCF85363
 https://github.com/JhoselinRam/gButton
 https://github.com/ryraki/FXLS89xx_Arduino
 https://github.com/ryraki/FXPS7xxx_Arduino
+https://github.com/ryraki/NMH1000_Arduino
